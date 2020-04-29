@@ -1,0 +1,15 @@
+.mainDiv {
+  margin-top: 50px;
+}
+
+.timer {
+  position: absolute;
+  right: 0;
+  width: 100px;
+  height: 120px;
+  border: 3px solid blue;
+}
+
+.highscores {
+  margin-top: 50px;
+}
